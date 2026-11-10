@@ -14,7 +14,11 @@ Site para organizar pedidos de uma indústria de alimentos: o cliente faz a comp
 
 ## Como usar
 
-Abra `index.html` no navegador ou acesse o endereço do GitHub Pages quando a publicação estiver concluída.
+**Site publicado:** https://pcdavid-bit.github.io/trazo/
+
+**Repositório:** https://github.com/pcdavid-bit/trazo
+
+Para usar localmente, abra `index.html` no navegador.
 
 1. Escolha o perfil **Cliente**, **Comercial** ou **Expedição**.
 2. No perfil Cliente, selecione uma empresa de exemplo.
@@ -84,7 +88,7 @@ HTML5, CSS3 e JavaScript puro. O site não precisa de instalação, framework, b
 
 ## Publicação no GitHub Pages
 
-O site está preparado para publicação a partir da pasta raiz da branch `main`, sem etapa de compilação. Os arquivos usam caminhos relativos, compatíveis com a hospedagem em um repositório do GitHub Pages.
+O site está publicado no GitHub Pages a partir da pasta raiz da branch `main`, sem etapa de compilação manual. Os arquivos usam caminhos relativos, compatíveis com a hospedagem em um repositório do GitHub Pages.
 
 ## Sobre o projeto
 
